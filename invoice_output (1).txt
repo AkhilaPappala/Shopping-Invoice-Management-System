@@ -1,0 +1,25 @@
+                  --------------------Invoice-----------------                  
+                                 Trinity store                                 
+                         3/98 Mecrobertganj New Mumbai                         
+                              Opposite Metro Walk                              
+                GSTIN: 03AWBPP8756K592 Contact: (+91) 9989907105                
+                       Date: 19/11/2024 15:11:06  Tuesday                       
+                           Contact: (+91) 6303048101                           
+                            Customer Name: srilatha                            
+   ------------------------------------------------------------
+     Product ID       Name           Quantity         Rate         
+   ------------------------------------------------------------
+      1               tomato             2          30.00           
+      9               drum stick         2          7.00            
+      3               potato             5          20.00           
+      10              raddish            4          27.00           
+      11              apple              5          10.00           
+      100             coconut            2          10.00           
+                           Total Amount (Rs.): 352.0                           
+                              Discount (Rs.): 7.04                              
+                                Subtotal: 344.96                                
+                         SGST (12%): 41.395199999999996                         
+                         CGST (12%): 41.395199999999996                         
+                       Invoice Total: 427.75039999999996                       
+           ----------------Thank You for Shopping!!-----------------           
+                                  Visit Again                                  
